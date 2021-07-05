@@ -1,12 +1,12 @@
 {
   "name": "tiger-tabs",
   "version": "0.0.1",
-  "description": "blah",
+  "description": "",
   "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Mahdi Ayman, Victoria Nguyen",
   "license": "ISC",
   "dependencies": {
     "firebase": "^8.7.0"
